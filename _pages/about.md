@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>University of Information Technology - Vietnam National University Ho Chi Minh City</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I am **Tran Phuoc Thanh Nhan**, a dedicated **Bachelor of Computer Science** student at the *University of Information Technology (UIT), Vietnam National University*. Fueled by a long-standing passion for mathematics and algorithmic problem-solving that dates back to my high school Informatics Olympiad team days, I maintain an excellent academic record at UIT with a **9.16/10.0 GPA** (Top 6% academic scholarship recipient). Currently, I balance my academic pursuits as an **Undergraduate Research Assistant** alongside my leadership experience, having served as the **Head of AI Team (Gen 6)** at *Google Developer Group (GDG) on Campus - UIT*
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My primary **Scientific Research Interests** lie in the fields of **Natural Language Processing (NLP)** and **Generative AI**. Working under the supervision of Dr. Dang Van Thin, my research focuses on *Transformer-based and Large Language Model (LLM) fine-tuning (via LoRA), Multi-agent systems, and Retrieval-Augmented Generation (RAG)*. I actively translate my research into peer-reviewed contributions for international conferences.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Bridging the gap between academic theory and practical software engineering, I have architected impactful **Technical Projects**. I engineered **AskUIT AI Academic Assistant**, an intelligent chatbot that won the Encouragement Prize at SEApp 2025, leveraging a *Multi-Agent architecture* and a *Hybrid Search RAG pipeline* to deliver academic support. Furthermore, my strong commitment to problem-solving is reflected in my **Competitive Programming & Algorithm Repository**, where I have solved and documented over 150+ highly optimized algorithmic challenges across platforms like Codeforces and CSES, stemming from my background competing in high school programming contests.
