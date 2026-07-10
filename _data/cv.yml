@@ -14,7 +14,7 @@ cv:
     Education:
       - institution: University of Information Technology, Vietnam National University
         area: Computer Science
-        degree: BS
+        degree: Bachelor of Science
         location: Ho Chi Minh City
         start_date: 2024-09
         end_date: present
@@ -24,7 +24,6 @@ cv:
           - "Honors: Honour for Excellent Academic Achievement and Scholarship in 2 Semesters (Top 6%)."
 
       - institution: Phan Chau Trinh High School
-        area: Science
         degree: High School Diploma
         location: Da Nang City
         start_date: 2021-09
@@ -34,7 +33,7 @@ cv:
           - "Activities and societies: Member of the Phan Chau Trinh Club of Science and Technology (CST), Phan Chau Trinh's Informatics Olympiad Team."
 
     Experience:
-      - company: University of Information Technology
+      - company: University of Information Technology - Vietnam National University
         position: Undergraduate Research Assistant
         location: Ho Chi Minh City
         start_date: 2025-11
@@ -66,7 +65,7 @@ cv:
           - "Served as a Technical Support Mentor at Build with AI 2025 (FPT University), troubleshooting technical issues and guiding attendees through Google CodeLabs for practical Generative AI implementations."
 
     Projects:
-      - name: "AskUIT -- AI Academic Assistant"
+      - name: "AskUIT - AI Academic Assistant"
         location: "https://github.com/eiyuumiru/AskUIT"
         start_date: 2025-09
         end_date: 2025-12
