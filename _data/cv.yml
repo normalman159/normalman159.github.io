@@ -1,189 +1,141 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  name: Tran Phuoc Thanh Nhan
+  label: Computer Science Student
+  email: nhantt.work@gmail.com
+  phone: 0337.737.605
+  location: Ho Chi Minh City, Vietnam
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: nhantt2006
+    - network: GitHub
+      username: normalman159
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: University of Information Technology, Vietnam National University
+        location: Ho Chi Minh City
+        area: Computer Science
+        studyType: Bachelor
+        start_date: 2024-09
+        end_date: Present
+        score: 9.16/10.0
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Relevant Coursework: Artificial Intelligence, Machine Learning, Probability and Statistics, Linear Algebra, Math for Computer Science, Data Structures and Algorithms, Design and Analysis of Algorithms, Object-Oriented Programming, Database Management, Artificial Intelligence Programming."
+          - "Honors: Honour for Excellent Academic Achievement and Scholarship in 2 Semesters (Top 6%)."
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Phan Chau Trinh High School
+        location: Da Nang City
+        studyType: High School Diploma
+        start_date: 2021-09
+        end_date: 2024-05
+        score: 9.0/10.0
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Activities and societies: Member of the Phan Chau Trinh Club of Science and Technology (CST), Phan Chau Trinh's Informatics Olympiad Team."
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: University of Information Technology
+        position: Undergraduate Research Assistant
+        location: Ho Chi Minh City
+        start_date: 2025-11
+        end_date: Present
         highlights:
-          - Relativity
-          - Description 2.
+          - "Conducting advanced Natural Language Processing (NLP) research under the supervision of Dr. Dang Van Thin, focusing on core domains including Transformer-based model fine-tuning, LLM fine-tuning via LoRA, Multi-agent systems, and RAG (Retrieval-Augmented Generation)."
+          - "Developing autonomous agentic workflows to solve complex NLP tasks, leveraging advanced frameworks to orchestrate collaboration, task delegation, and reasoning between multiple LLM agents."
+          - "Applying Parameter-Efficient Fine-Tuning and RAG pipelines to optimize large language models for domain-specific applications, significantly enhancing context-awareness and inference accuracy."
+          - "Authored, Co-authored, and published research papers in prestigious international NLP Shared Tasks (e.g., SemEval), achieving competitive rankings in Machine-Generated Text Detection and Hate Speech Classification."
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Google Developer Group on Campus - UIT
+        position: Vice Head of Development Function & Head of AI Team
+        location: Ho Chi Minh City
+        start_date: 2025-08
+        end_date: Present
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Lead the technical roadmap by organizing over 5 specialized knowledge-sharing sessions on Generative AI and AI Agentic workflows"
+          - "Mentor club members in product development, providing technical guidance and strategic ideation that resulted in high-quality projects for hackathon competitions."
+          - "Collaborate with the Executive Board to orchestrate core club operations, including end-to-end recruitment processes, large-scale bonding events, and community-building initiatives."
+          - "Facilitate a collaborative environment for developers to experiment with new technologies, bridging the gap between academic theory and practical software engineering."
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Google Developer Group on Campus - UIT
+        position: Member of Development Function
+        location: Ho Chi Minh City
+        start_date: 2024-09
+        end_date: 2025-08
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+          - "Led a development team at Google Hackathon Vietnam to architect and build a Sign-Language Recognition application prototype, leveraging machine learning and computer vision techniques."
+          - "Served as a Technical Support Mentor at Build with AI 2025 (FPT University), troubleshooting technical issues and guiding attendees through Google CodeLabs for practical Generative AI implementations."
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: AskUIT -- AI Academic Assistant
+        url: https://github.com/eiyuumiru/AskUIT
+        keywords: LangChain, LangGraph, Qdrant, FastAPI, Groq, LiteLLM
+        start_date: 2025-09
+        end_date: 2025-12
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - "Architected and developed an intelligent chatbot to provide academic support for UIT students, focusing on academic regulations, curricula, and personalized career orientation."
+          - "Won the Encouragement Prize in SEApp 2025."
+          - "Engineered a high-precision RAG (Retrieval-Augmented Generation) pipeline using a Hybrid Search strategy, combining Sparse Search (BM25) and Dense Search (Vector) to optimize retrieval accuracy."
+          - "Implemented a Multi-Agent architecture using LangGraph to handle complex logic, such as cross-referencing course prerequisites and generating tailored major recommendations based on student interests."
+          - "Optimized system performance by integrating Groq for ultra-fast LLM inference and Qdrant as a high-performance vector database, managed via LiteLLM for seamless model abstraction."
+          - "Deployed a scalable backend using FastAPI and integrated FPT Cloud infrastructure to ensure low-latency responses for concurrent user queries."
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Competitive Programming & Algorithm Repository
+        url: https://github.com/normalman159/Competitve-Programming
+        keywords: C++, Data Structures, Algorithms, Codeforces, CSES
+        start_date: 2022-08
+        end_date: Present
+        highlights:
+          - "Solved, optimized, and documented over 150+ algorithmic challenges across prominent competitive programming platforms, including Codeforces, CSES, and LQDOJ."
+          - "Engineered highly optimized solutions using a wide range of Data Structures and Algorithms (DSA), progressing from core techniques (Binary Search, Number Theory) to advanced paradigms such as Dynamic Programming (DP), Greedy Algorithms, Backtracking, and Segment Trees."
+          - "Undertook rigorous algorithmic training to systematically prepare for highly competitive national and regional programming contests."
+          - "Applied advanced problem-solving skills to successfully compete and achieve high rankings in prestigious competitions, including the Informatics Olympiad in the Central Region and Highlands and the City-level Youth Informatics Contest."
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Publications:
+      - title: "Gradient Descenders at SemEval-2026 Task 9: Data-Centric Counterfactual Augmentation for Multi-Label Hate Speech Detection"
+        authors:
+          - Tran Phuoc Thanh Nhan
+          - Dang Van Thin
+        date: 2026-04
+        url: https://aclanthology.org/2026.semeval-1.113.pdf
+        highlights:
+          - "Conducted comprehensive Exploratory Data Analysis (EDA) to uncover severe class and label-pair imbalances, aiming to mitigate spurious correlations within the multi-label hate speech dataset."
+          - "Engineered a robust Data-Centric Counterfactual Augmentation pipeline, leveraging LLaMA-4 model and advanced Prompt Engineering to synthetically handle underrepresented data distributions, simulating counterfactual scenarios."
+          - "Implemented three targeted semantic generation strategies: Additive Label-Flipping via Attribute Injection, Context Decoupling, and Cross-Domain Identity Substitution."
+          - "Achieved a 44.20% Macro-F1 score on the official SemEval test set, outperforming the organizational baseline by +0.14 F1-score and demonstrating significant improvements across underrepresented categories."
+
+      - title: "Gradient Descenders at DeSegMa-IT: Leveraging Monolingual Transformer for LLM-Generated Text Detection and Boundary Identification"
+        authors:
+          - Tran Phuoc Thanh Nhan
+          - Bui Hong Son
+          - Dang Van Thin
+        date: 2026-02
+        url: https://ceur-ws.org/Vol-4195/2.pdf
+        highlights:
+          - "Achieved Rank #1 in the Machine-Generated Text Detection Subtask (94.58% accuracy) and Rank #3 in the Boundary Identification Subtask (62.66 MAE) at the DeSegMa-IT, EVALITA 2026."
+          - "Developed a robust classification system using Italian RoBERTa to effectively distinguish between human-authored and LLM-generated Italian text."
+          - "Engineered a specialized DeBERTa-based model for hybrid human-machine text detection, successfully identifying the precise transition point where text shifts from human-written to AI-generated."
+          - "Published research in the proceedings of EVALITA 2026, contributing state-of-the-art methods to the field of AI-generated content forensics."
+
+    Awards:
+      - title: "Encouragement Prize, SEApp 2025"
+        date: 2025-12
+      - title: "First Prize, Danang's Computer Science Competition"
+        date: 2024-05
+      - title: "Third Prize (Bronze Medal), 5th Informatics Olympiad in the Central Region and Highlands"
+        date: 2024-03
+      - title: "Third Prize, HueICT Challenge"
+        date: 2024-03
+      - title: "Fourth Prize, YouthOn Hackathon"
+        date: 2024-12
+      - title: "First Runner-up, YouthOn Hackathon"
+        date: 2023-12
+      - title: "First Prize, Innovation for Education Hackathon (IFE)"
+        date: 2022-12
+
+    Skills:
+      - name: Languages
+        keywords: Python, C/C++, SQL
+      - name: AI Frameworks & Libraries
+        keywords: Pytorch, HuggingFace, Langchain, LangGraph, Scikit Learn, Numpy, Matplotlib
+      - name: Backend & MLOps
+        keywords: FastAPI, Qdrant (Vector DB), LiteLLM, Git
