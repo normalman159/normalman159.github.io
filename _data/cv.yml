@@ -1,9 +1,8 @@
 cv:
   name: Tran Phuoc Thanh Nhan
-  label: Computer Science Student
-  email: nhantt.work@gmail.com
-  phone: 0337.737.605
   location: Ho Chi Minh City, Vietnam
+  email: nhantt.work@gmail.com
+  phone: "+84337737605"
 
   social_networks:
     - network: LinkedIn
@@ -14,23 +13,24 @@ cv:
   sections:
     Education:
       - institution: University of Information Technology, Vietnam National University
-        location: Ho Chi Minh City
         area: Computer Science
-        studyType: Bachelor
+        degree: BS
+        location: Ho Chi Minh City
         start_date: 2024-09
-        end_date: Present
-        score: 9.16/10.0
+        end_date: present
         highlights:
+          - "GPA: 9.16/10.0"
           - "Relevant Coursework: Artificial Intelligence, Machine Learning, Probability and Statistics, Linear Algebra, Math for Computer Science, Data Structures and Algorithms, Design and Analysis of Algorithms, Object-Oriented Programming, Database Management, Artificial Intelligence Programming."
           - "Honors: Honour for Excellent Academic Achievement and Scholarship in 2 Semesters (Top 6%)."
 
       - institution: Phan Chau Trinh High School
+        area: Science
+        degree: High School Diploma
         location: Da Nang City
-        studyType: High School Diploma
         start_date: 2021-09
         end_date: 2024-05
-        score: 9.0/10.0
         highlights:
+          - "GPA: 9.0/10.0"
           - "Activities and societies: Member of the Phan Chau Trinh Club of Science and Technology (CST), Phan Chau Trinh's Informatics Olympiad Team."
 
     Experience:
@@ -38,7 +38,7 @@ cv:
         position: Undergraduate Research Assistant
         location: Ho Chi Minh City
         start_date: 2025-11
-        end_date: Present
+        end_date: present
         highlights:
           - "Conducting advanced Natural Language Processing (NLP) research under the supervision of Dr. Dang Van Thin, focusing on core domains including Transformer-based model fine-tuning, LLM fine-tuning via LoRA, Multi-agent systems, and RAG (Retrieval-Augmented Generation)."
           - "Developing autonomous agentic workflows to solve complex NLP tasks, leveraging advanced frameworks to orchestrate collaboration, task delegation, and reasoning between multiple LLM agents."
@@ -49,7 +49,7 @@ cv:
         position: Vice Head of Development Function & Head of AI Team
         location: Ho Chi Minh City
         start_date: 2025-08
-        end_date: Present
+        end_date: present
         highlights:
           - "Lead the technical roadmap by organizing over 5 specialized knowledge-sharing sessions on Generative AI and AI Agentic workflows"
           - "Mentor club members in product development, providing technical guidance and strategic ideation that resulted in high-quality projects for hackathon competitions."
@@ -66,11 +66,11 @@ cv:
           - "Served as a Technical Support Mentor at Build with AI 2025 (FPT University), troubleshooting technical issues and guiding attendees through Google CodeLabs for practical Generative AI implementations."
 
     Projects:
-      - name: AskUIT -- AI Academic Assistant
-        url: https://github.com/eiyuumiru/AskUIT
-        keywords: LangChain, LangGraph, Qdrant, FastAPI, Groq, LiteLLM
+      - name: "AskUIT -- AI Academic Assistant"
+        location: "https://github.com/eiyuumiru/AskUIT"
         start_date: 2025-09
         end_date: 2025-12
+        summary: "Keywords: LangChain, LangGraph, Qdrant, FastAPI, Groq, LiteLLM"
         highlights:
           - "Architected and developed an intelligent chatbot to provide academic support for UIT students, focusing on academic regulations, curricula, and personalized career orientation."
           - "Won the Encouragement Prize in SEApp 2025."
@@ -80,10 +80,10 @@ cv:
           - "Deployed a scalable backend using FastAPI and integrated FPT Cloud infrastructure to ensure low-latency responses for concurrent user queries."
 
       - name: Competitive Programming & Algorithm Repository
-        url: https://github.com/normalman159/Competitve-Programming
-        keywords: C++, Data Structures, Algorithms, Codeforces, CSES
+        location: "https://github.com/normalman159/Competitve-Programming"
         start_date: 2022-08
-        end_date: Present
+        end_date: present
+        summary: "Keywords: C++, Data Structures, Algorithms, Codeforces, CSES"
         highlights:
           - "Solved, optimized, and documented over 150+ algorithmic challenges across prominent competitive programming platforms, including Codeforces, CSES, and LQDOJ."
           - "Engineered highly optimized solutions using a wide range of Data Structures and Algorithms (DSA), progressing from core techniques (Binary Search, Number Theory) to advanced paradigms such as Dynamic Programming (DP), Greedy Algorithms, Backtracking, and Segment Trees."
@@ -97,11 +97,6 @@ cv:
           - Dang Van Thin
         date: 2026-04
         url: https://aclanthology.org/2026.semeval-1.113.pdf
-        highlights:
-          - "Conducted comprehensive Exploratory Data Analysis (EDA) to uncover severe class and label-pair imbalances, aiming to mitigate spurious correlations within the multi-label hate speech dataset."
-          - "Engineered a robust Data-Centric Counterfactual Augmentation pipeline, leveraging LLaMA-4 model and advanced Prompt Engineering to synthetically handle underrepresented data distributions, simulating counterfactual scenarios."
-          - "Implemented three targeted semantic generation strategies: Additive Label-Flipping via Attribute Injection, Context Decoupling, and Cross-Domain Identity Substitution."
-          - "Achieved a 44.20% Macro-F1 score on the official SemEval test set, outperforming the organizational baseline by +0.14 F1-score and demonstrating significant improvements across underrepresented categories."
 
       - title: "Gradient Descenders at DeSegMa-IT: Leveraging Monolingual Transformer for LLM-Generated Text Detection and Boundary Identification"
         authors:
@@ -110,32 +105,27 @@ cv:
           - Dang Van Thin
         date: 2026-02
         url: https://ceur-ws.org/Vol-4195/2.pdf
-        highlights:
-          - "Achieved Rank #1 in the Machine-Generated Text Detection Subtask (94.58% accuracy) and Rank #3 in the Boundary Identification Subtask (62.66 MAE) at the DeSegMa-IT, EVALITA 2026."
-          - "Developed a robust classification system using Italian RoBERTa to effectively distinguish between human-authored and LLM-generated Italian text."
-          - "Engineered a specialized DeBERTa-based model for hybrid human-machine text detection, successfully identifying the precise transition point where text shifts from human-written to AI-generated."
-          - "Published research in the proceedings of EVALITA 2026, contributing state-of-the-art methods to the field of AI-generated content forensics."
 
     Awards:
-      - title: "Encouragement Prize, SEApp 2025"
+      - name: "Encouragement Prize, SEApp 2025"
         date: 2025-12
-      - title: "First Prize, Danang's Computer Science Competition"
+      - name: "First Prize, Danang's Computer Science Competition"
         date: 2024-05
-      - title: "Third Prize (Bronze Medal), 5th Informatics Olympiad in the Central Region and Highlands"
+      - name: "Third Prize (Bronze Medal), 5th Informatics Olympiad in the Central Region and Highlands"
         date: 2024-03
-      - title: "Third Prize, HueICT Challenge"
+      - name: "Third Prize, HueICT Challenge"
         date: 2024-03
-      - title: "Fourth Prize, YouthOn Hackathon"
+      - name: "Fourth Prize, YouthOn Hackathon"
         date: 2024-12
-      - title: "First Runner-up, YouthOn Hackathon"
+      - name: "First Runner-up, YouthOn Hackathon"
         date: 2023-12
-      - title: "First Prize, Innovation for Education Hackathon (IFE)"
+      - name: "First Prize, Innovation for Education Hackathon (IFE)"
         date: 2022-12
 
     Skills:
-      - name: Languages
-        keywords: Python, C/C++, SQL
-      - name: AI Frameworks & Libraries
-        keywords: Pytorch, HuggingFace, Langchain, LangGraph, Scikit Learn, Numpy, Matplotlib
-      - name: Backend & MLOps
-        keywords: FastAPI, Qdrant (Vector DB), LiteLLM, Git
+      - label: Languages
+        details: Python, C/C++, SQL
+      - label: AI Frameworks & Libraries
+        details: Pytorch, HuggingFace, Langchain, LangGraph, Scikit Learn, Numpy, Matplotlib
+      - label: Backend & MLOps
+        details: FastAPI, Qdrant (Vector DB), LiteLLM, Git
