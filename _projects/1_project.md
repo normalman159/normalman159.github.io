@@ -1,81 +1,58 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Competitive Programming Repository
+description: Optimized algorithm solutions, contest templates, and problem-solving progress across online judges.
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+# Competitive Programming Repository
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+> A curated archive of competitive programming solutions, reusable templates, and algorithm practice by **Tran Phuoc Thanh Nhan** (`normalman159`).
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+![C++](https://img.shields.io/badge/C++-100%25-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-utility-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-version%20control-F05032?logo=git&logoColor=white)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-Competitve--Programming-181717?logo=github)](https://github.com/normalman159/Competitve-Programming)
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## Overview
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+The **Competitive Programming Repository** is my long-running collection of optimized solutions, reusable data structure templates, and contest practice notes. Started in 2022 and updated over time, it helps track problem-solving progress across online judges while keeping high-performance C++ implementations easy to reuse during training and contests.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+The repository is built around a simple goal: write clear, fast, and reliable algorithmic code. It covers classical competitive programming areas such as graph theory, dynamic programming, segment trees, mathematics, strings, and implementation-heavy problem solving.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Key Highlights
 
-{% raw %}
+- **Advanced algorithms & data structures:** graph traversal, shortest paths, DP patterns, segment trees, number theory, string processing, and contest utilities.
+- **Multi-platform practice:** solutions organized across Codeforces, CSES, VNOI, Vietnamese OJ/training sets, and university practice platforms.
+- **Reusable C++ templates:** fast snippets and base structures designed for speed, clarity, and contest performance.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
+## Repository Structure
+
+```text
+Competitve-Programming/
+├── CSES/                  # CSES problem set solutions
+├── CodeForce/             # Codeforces submissions and practice
+├── LQDOJ/                 # Vietnamese online judge solutions
+├── Template/              # Reusable C++ contest templates
+├── Training_*/            # Training sets and contest preparation
+├── VNOI/                  # VNOI problem solutions
+└── Wecode - UIT/          # University practice assignments
 ```
 
-{% endraw %}
+## Tech Stack & Platforms
+
+| Category | Tools / Platforms |
+| --- | --- |
+| Languages | C++, Python |
+| Core tools | Git, VS Code |
+| Topics | Graph Theory, Dynamic Programming, Segment Tree, Math, Strings |
+| Platforms | Codeforces, CSES, VNOI, LQDOJ, Wecode UIT |
+
+## Explore the Project
+
+If you are interested in algorithm optimization, contest programming, or reusable C++ templates, feel free to explore the repository and use it for learning and reference.
+
+- [View the GitHub repository](https://github.com/normalman159/Competitve-Programming)
+- Contact: [`normalman159` on GitHub](https://github.com/normalman159)
