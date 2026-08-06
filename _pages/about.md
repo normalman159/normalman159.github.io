@@ -7,7 +7,7 @@ subtitle: <a href='#'>University of Information Technology - Vietnam National Un
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular/oval
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am **Tran Phuoc Thanh Nhan**, a dedicated **Bachelor of Computer Science** student at the *University of Information Technology (UIT), Vietnam National University*. Fueled by a long-standing passion for mathematics and algorithmic problem-solving that dates back to my high school Informatics Olympiad team days, I maintain an excellent academic record at UIT with a **9.16/10.0 GPA** (Top 6% academic scholarship recipient). Currently, I balance my academic pursuits as an **Undergraduate Research Assistant** alongside my leadership experience, having served as the **Head of AI Team (Gen 6)** at *Google Developer Group (GDG) on Campus - UIT*
+Hi, I am **Tran Phuoc Thanh Nhan**, a dedicated **Bachelor of Computer Science** student at the *University of Information Technology (UIT), Vietnam National University*. Fueled by a long-standing passion for mathematics and algorithmic problem-solving that dates back to my high school Informatics Olympiad team days, I maintain an excellent academic record at UIT, with grades consistently at the **excellence level** as a Top 6% academic scholarship recipient. Currently, I balance my academic pursuits as an **Undergraduate Research Assistant** alongside my leadership experience, having served as the **Head of AI Team (Gen 6)** at *Google Developer Group (GDG) on Campus - UIT*
 
 My primary **Scientific Research Interests** lie in the fields of **Natural Language Processing (NLP)** and **Generative AI**. Working under the supervision of Dr. Dang Van Thin, my research focuses on *Transformer-based and Large Language Model (LLM) fine-tuning (via LoRA), Multi-agent systems, and Retrieval-Augmented Generation (RAG)*. I actively translate my research into peer-reviewed contributions for international conferences.
 
