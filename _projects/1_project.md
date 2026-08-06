@@ -2,12 +2,11 @@
 layout: page
 title: Competitive Programming Repository
 description: Optimized algorithm solutions, contest templates, and problem-solving progress across online judges.
+img: assets/img/9.jpg
 importance: 1
 category: work
 related_publications: false
 ---
-
-# Competitive Programming Repository
 
 > A curated archive of competitive programming solutions, reusable templates, and algorithm practice by **Tran Phuoc Thanh Nhan** (`normalman159`).
 

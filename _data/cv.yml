@@ -106,25 +106,25 @@ cv:
         url: https://ceur-ws.org/Vol-4195/2.pdf
 
     Awards:
-      - name: "Encouragement Prize, SEApp 2025"
+      - title: "Encouragement Prize, SEApp 2025"
         date: 2025-12
-      - name: "First Prize, Danang's Computer Science Competition"
+      - title: "First Prize, Danang's Computer Science Competition"
         date: 2024-05
-      - name: "Third Prize (Bronze Medal), 5th Informatics Olympiad in the Central Region and Highlands"
+      - title: "Third Prize (Bronze Medal), 5th Informatics Olympiad in the Central Region and Highlands"
         date: 2024-03
-      - name: "Third Prize, HueICT Challenge"
+      - title: "Third Prize, HueICT Challenge"
         date: 2024-03
-      - name: "Fourth Prize, YouthOn Hackathon"
+      - title: "Fourth Prize, YouthOn Hackathon"
         date: 2024-12
-      - name: "First Runner-up, YouthOn Hackathon"
+      - title: "First Runner-up, YouthOn Hackathon"
         date: 2023-12
-      - name: "First Prize, Innovation for Education Hackathon (IFE)"
+      - title: "First Prize, Innovation for Education Hackathon (IFE)"
         date: 2022-12
 
     Skills:
-      - label: Languages
-        details: Python, C/C++, SQL
-      - label: AI Frameworks & Libraries
-        details: Pytorch, HuggingFace, Langchain, LangGraph, Scikit Learn, Numpy, Matplotlib
-      - label: Backend & MLOps
-        details: FastAPI, Qdrant (Vector DB), LiteLLM, Git
+      - name: Languages
+        keywords: [Python, C/C++, SQL]
+      - name: AI Frameworks & Libraries
+        keywords: [Pytorch, HuggingFace, Langchain, LangGraph, Scikit Learn, Numpy, Matplotlib]
+      - name: Backend & MLOps
+        keywords: [FastAPI, Qdrant (Vector DB), LiteLLM, Git]
