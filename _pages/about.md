@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Information Technology - Vietnam National University Ho Chi Minh City</a>.
+description: Homepage of Tran Phuoc Thanh Nhan - NLP, Generative AI, RAG, and Multi-Agent Systems researcher at UIT VNU-HCM.
+subtitle: <a href='https://en.uit.edu.vn/'>University of Information Technology - Vietnam National University Ho Chi Minh City</a>.
 
 profile:
   align: right
@@ -22,13 +23,18 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+og_image: /assets/img/prof_pic_color.png
 ---
 
 Hi, I am **Tran Phuoc Thanh Nhan**, a dedicated **Bachelor of Computer Science** student at the *University of Information Technology (UIT), Vietnam National University*. Fueled by a long-standing passion for mathematics and algorithmic problem-solving that dates back to my high school Informatics Olympiad team days, I maintain an excellent academic record at UIT, with grades consistently at the **excellence level** as a Top 6% academic scholarship recipient. Currently, I balance my academic pursuits as an **Undergraduate Research Assistant** alongside my leadership experience, having served as the **Head of AI Team (Gen 6)** at *Google Developer Group (GDG) on Campus - UIT*
 
+## Research Interests
+
 My primary **Scientific Research Interests** lie in the fields of **Natural Language Processing (NLP)** and **Generative AI**. Working under the supervision of Dr. Dang Van Thin, my research focuses on *Transformer-based and Large Language Model (LLM) fine-tuning (via LoRA), Multi-agent systems, and Retrieval-Augmented Generation (RAG)*. I actively translate my research into peer-reviewed contributions for international conferences.
+
+## Technical Projects
 
 Bridging the gap between academic theory and practical software engineering, I have architected impactful **Technical Projects**. I engineered **AskUIT AI Academic Assistant**, an intelligent chatbot that won the Encouragement Prize at SEApp 2025, leveraging a *Multi-Agent architecture* and a *Hybrid Search RAG pipeline* to deliver academic support. Furthermore, my strong commitment to problem-solving is reflected in my **Competitive Programming & Algorithm Repository**, where I have solved and documented over 150+ highly optimized algorithmic challenges across platforms like Codeforces and CSES, stemming from my background competing in high school programming contests.

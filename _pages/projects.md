@@ -2,11 +2,12 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Projects by Tran Phuoc Thanh Nhan, including AI assistants, RAG systems, multi-agent applications, and competitive programming repositories.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
+og_image: /assets/img/prof_pic_color.png
 ---
 
 <!-- pages/projects.md -->

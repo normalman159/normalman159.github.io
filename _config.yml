@@ -2,12 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Tran Phuoc Thanh Nhan | NLP & AI Researcher # the website title (if blank, full name will be used instead)
 first_name: Nhan
 # middle_name: 
 last_name: Tran Phuoc Thanh
+author: Tran Phuoc Thanh Nhan
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Tran Phuoc Thanh Nhan, a Computer Science student at UIT VNU-HCM interested in Natural Language Processing (NLP), Generative AI, RAG, and Multi-Agent Systems.
 footer_text: >
@@ -96,9 +97,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: /assets/img/prof_pic_color.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

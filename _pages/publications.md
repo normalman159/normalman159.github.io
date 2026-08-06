@@ -2,9 +2,10 @@
 layout: page
 permalink: /publications/
 title: publications
-description: My scientific publications in reversed chronological order.
+description: Scientific publications by Tran Phuoc Thanh Nhan in Natural Language Processing, Generative AI, RAG, and Multi-Agent Systems.
 nav: true
 nav_order: 2
+og_image: /assets/img/prof_pic_color.png
 ---
 
 <!-- _pages/publications.md -->

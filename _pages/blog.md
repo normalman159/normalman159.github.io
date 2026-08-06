@@ -2,8 +2,10 @@
 layout: default
 permalink: /blog/
 title: blog
+description: Blog posts on NLP, Generative AI, LLMs, RAG, and Multi-Agent Systems by Tran Phuoc Thanh Nhan.
 nav: false
 nav_order: 1
+og_image: /assets/img/prof_pic_color.png
 pagination:
   enabled: true
   collection: posts
