@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 cv_pdf: /assets/pdf/CV.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
-og_image: /assets/img/prof_pic_color.png
+og_image: /assets/img/profile.jpg
 toc:
   sidebar: left
 ---

@@ -5,7 +5,7 @@ title: repositories
 description: GitHub repositories and profiles maintained by Tran Phuoc Thanh Nhan.
 nav: false
 nav_order: 4
-og_image: /assets/img/prof_pic_color.png
+og_image: /assets/img/profile.jpg
 ---
 
 {% if site.data.repositories.github_users %}

@@ -7,7 +7,7 @@ subtitle: <a href='https://en.uit.edu.vn/'>University of Information Technology 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: true # crops the image to make it circular/oval
   # more_info: >
   #   <p>555 your office number</p>
@@ -26,7 +26,7 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
-og_image: /assets/img/prof_pic_color.png
+og_image: /assets/img/profile.jpg
 ---
 
 Hi, I am **Tran Phuoc Thanh Nhan**, a dedicated **Bachelor of Computer Science** student at the *University of Information Technology (UIT), Vietnam National University*. Fueled by a long-standing passion for mathematics and algorithmic problem-solving that dates back to my high school Informatics Olympiad team days, I maintain an excellent academic record at UIT, with grades consistently at the **excellence level** as a Top 6% academic scholarship recipient. Currently, I balance my academic pursuits as an **Undergraduate Research Assistant** alongside my leadership experience, having served as the **Head of AI Team (Gen 6)** at *Google Developer Group (GDG) on Campus - UIT*

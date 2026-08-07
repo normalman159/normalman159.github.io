@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
-og_image: /assets/img/prof_pic_color.png
+og_image: /assets/img/profile.jpg
 ---
 
 <!-- pages/projects.md -->
