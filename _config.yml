@@ -10,8 +10,7 @@ author: Tran Phuoc Thanh Nhan
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Tran Phuoc Thanh Nhan, a Computer Science student at UIT VNU-HCM interested in Natural Language Processing (NLP), Generative AI, RAG, and Multi-Agent Systems.
-footer_text: >
-  &copy; 2026 Tran Phuoc Thanh Nhan. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+footer_text: ""
 keywords: Tran Phuoc Thanh Nhan, NLP, Generative AI, RAG, Multi-Agent Systems, UIT, Computer Science
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -230,7 +229,6 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
