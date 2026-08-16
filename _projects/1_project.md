@@ -2,7 +2,7 @@
 layout: page
 title: Competitive Programming Repository
 description: Long-running collection of 150+ optimized C++ solutions, contest templates, and algorithm practice across major online judges.
-img: assets/img/profile.jpg
+img: assets/img/projects/1_project.jpg
 importance: 2
 category: work
 related_publications: false
