@@ -29,12 +29,29 @@ latest_posts:
 og_image: /assets/img/profile.jpg
 ---
 
-Hi, I am **Tran Phuoc Thanh Nhan**, a dedicated **Bachelor of Computer Science** student at the *University of Information Technology (UIT), Vietnam National University*. Fueled by a long-standing passion for mathematics and algorithmic problem-solving that dates back to my high school Informatics Olympiad team days, I maintain an excellent academic record at UIT, with grades consistently at the **excellence level** as a Top 6% academic scholarship recipient. Currently, I balance my academic pursuits as an **Undergraduate Research Assistant** alongside my leadership experience, having served as the **Head of AI Team (Gen 6)** at *Google Developer Group (GDG) on Campus - UIT*
+Hi, I am **Tran Phuoc Thanh Nhan**, a dedicated **Computer Science Undergraduate Researcher** at the *University of Information Technology (UIT), Vietnam National University*. Fueled by a long-standing passion for mathematics and algorithmic problem-solving, I maintain an excellent academic record at UIT, with grades consistently at the **excellence level** as a Top 6% academic scholarship recipient. Currently, I balance my academic pursuits as an **Undergraduate Research Assistant** under the supervision of Dr. Dang Van Thin, and my leadership experience serving as the **Head of AI Team (Gen 6)** at *Google Developer Group (GDG) on Campus - UIT*.
 
-## Research Interests
+## Focus
 
-My primary **Scientific Research Interests** lie in the fields of **Natural Language Processing (NLP)** and **Generative AI**. Working under the supervision of Dr. Dang Van Thin, my research focuses on *Transformer-based and Large Language Model (LLM) fine-tuning (via LoRA), Multi-agent systems, and Retrieval-Augmented Generation (RAG)*. I actively translate my research into peer-reviewed contributions for international conferences.
+My current work revolves around building reliable and practical AI systems. I focus on:
+- **Natural Language Processing (NLP)** & **Generative AI**
+- **Retrieval-Augmented Generation (RAG)**
+- **Multi-Agent Systems**
+- **Large Language Model (LLM) fine-tuning (e.g., LoRA)**
 
-## Technical Projects
+<br/>
+<div class="row text-center mb-4">
+  <div class="col-sm-6 mb-2">
+    <a href="/research/" class="btn btn-primary btn-block" style="width: 100%; border-radius: 5px;">View Research Overview</a>
+  </div>
+  <div class="col-sm-6 mb-2">
+    <a href="/projects/" class="btn btn-outline-primary btn-block" style="width: 100%; border-radius: 5px;">View Technical Projects</a>
+  </div>
+</div>
 
-Bridging the gap between academic theory and practical software engineering, I have architected impactful **Technical Projects**. I engineered **AskUIT AI Academic Assistant**, an intelligent chatbot that won the Encouragement Prize at SEApp 2025, leveraging a *Multi-Agent architecture* and a *Hybrid Search RAG pipeline* to deliver academic support. Furthermore, my strong commitment to problem-solving is reflected in my **Competitive Programming & Algorithm Repository**, where I have solved and documented over 150+ highly optimized algorithmic challenges across platforms like Codeforces and CSES, stemming from my background competing in high school programming contests.
+## Highlighted Work
+
+Bridging the gap between academic theory and practical software engineering, I architect impactful systems:
+
+1. **AskUIT AI Academic Assistant:** An intelligent chatbot that won the Encouragement Prize at SEApp 2025. This project leverages a *Multi-Agent architecture* and a *Hybrid Search RAG pipeline* to deliver university-specific academic support.
+2. **Competitive Programming Repository:** My long-standing algorithm collection (150+ highly optimized solutions across Codeforces, CSES, VNOI). It demonstrates my deep foundation in discrete math and high-performance C++.

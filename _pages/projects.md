@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Projects by Tran Phuoc Thanh Nhan, including AI assistants, RAG systems, multi-agent applications, and competitive programming repositories.
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [work, fun]
 horizontal: false
 og_image: /assets/img/profile.jpg

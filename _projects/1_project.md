@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Competitive Programming Repository
-description: Optimized algorithm solutions, contest templates, and problem-solving progress across online judges.
-img: assets/img/9.jpg
-importance: 1
+description: Long-running collection of 150+ optimized C++ solutions, contest templates, and algorithm practice across major online judges.
+img: assets/img/profile.jpg
+importance: 2
 category: work
 related_publications: false
 ---
 
-> A curated archive of competitive programming solutions, reusable templates, and algorithm practice by **Tran Phuoc Thanh Nhan** (`normalman159`).
+> **Foundational algorithmic skill base — 150+ solutions across Codeforces, CSES, VNOI, and UIT platforms**
 
 ![C++](https://img.shields.io/badge/C++-100%25-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-utility-3776AB?logo=python&logoColor=white)
@@ -17,15 +17,25 @@ related_publications: false
 
 ## Overview
 
-The **Competitive Programming Repository** is my long-running collection of optimized solutions, reusable data structure templates, and contest practice notes. Started in 2022 and updated over time, it helps track problem-solving progress across online judges while keeping high-performance C++ implementations easy to reuse during training and contests.
+The **Competitive Programming Repository** is my long-running collection of optimized solutions, reusable data structure templates, and contest practice notes. Started in 2022 and continuously updated, it serves as a personal knowledge base and skill foundation that directly supports my research engineering work.
 
-The repository is built around a simple goal: write clear, fast, and reliable algorithmic code. It covers classical competitive programming areas such as graph theory, dynamic programming, segment trees, mathematics, strings, and implementation-heavy problem solving.
+## Key Strengths
 
-## Key Highlights
+- **150+ highly-optimized C++ solutions** covering classical competitive programming domains
+- **Reusable C++ templates** designed for contest speed and clarity
+- **Multi-platform coverage:** Codeforces, CSES, VNOI, LQDOJ, Vietnamese OJ sets, UIT training
+- **Mental discipline & problem decomposition** – transferable to AI system design and research implementation
 
-- **Advanced algorithms & data structures:** graph traversal, shortest paths, DP patterns, segment trees, number theory, string processing, and contest utilities.
-- **Multi-platform practice:** solutions organized across Codeforces, CSES, VNOI, Vietnamese OJ/training sets, and university practice platforms.
-- **Reusable C++ templates:** fast snippets and base structures designed for speed, clarity, and contest performance.
+## Topics Covered
+
+| Area | Examples |
+| --- | --- |
+| Graph Theory | Shortest paths, flows, connectivity, trees |
+| Dynamic Programming | Sequences, states, optimization, DP on trees |
+| Data Structures | Segment trees, BIT/Fenwick, sparse tables, heaps |
+| Mathematics | Number theory, combinatorics, probability, geometry |
+| Strings | KMP, Z-algorithm, suffix arrays, Aho-Corasick |
+| Implementation | Fast I/O, bit tricks, contest utilities |
 
 ## Repository Structure
 
@@ -40,18 +50,14 @@ Competitve-Programming/
 └── Wecode - UIT/          # University practice assignments
 ```
 
-## Tech Stack & Platforms
+## Relevance to Research
 
-| Category | Tools / Platforms |
-| --- | --- |
-| Languages | C++, Python |
-| Core tools | Git, VS Code |
-| Topics | Graph Theory, Dynamic Programming, Segment Tree, Math, Strings |
-| Platforms | Codeforces, CSES, VNOI, LQDOJ, Wecode UIT |
+Strong algorithmic foundations enable:
+- Efficient implementation of retrievers, indexers, and search algorithms
+- Rigorous evaluation and ablation study design
+- Fast prototyping of ML system components
 
 ## Explore the Project
-
-If you are interested in algorithm optimization, contest programming, or reusable C++ templates, feel free to explore the repository and use it for learning and reference.
 
 - [View the GitHub repository](https://github.com/normalman159/Competitve-Programming)
 - Contact: [`normalman159` on GitHub](https://github.com/normalman159)
