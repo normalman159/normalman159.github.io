@@ -8,8 +8,6 @@ nav_order: 2
 og_image: /assets/img/profile.jpg
 ---
 
-<div class="research-overview">
-
 My research focuses on building practical and reliable AI systems at the intersection of **Natural Language Processing**, **Generative AI**, **Retrieval-Augmented Generation**, and **Multi-Agent Systems**. I am especially interested in turning research ideas into usable systems, reproducible experiments, and project outcomes.
 
 ## Research directions
@@ -43,5 +41,3 @@ I work on applied NLP systems that combine text understanding, generation, retri
 - Visit **Publications** for papers, preprints, and citation metadata.
 - Visit **Projects** for implementations, demos, repositories, and technical details.
 - Visit **Blog** for research notes, tutorials, and technical reflections.
-
-</div>

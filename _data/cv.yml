@@ -88,24 +88,11 @@ cv:
           - "Engineered highly optimized solutions using a wide range of Data Structures and Algorithms (DSA), progressing from core techniques (Binary Search, Number Theory) to advanced paradigms such as Dynamic Programming (DP), Greedy Algorithms, Backtracking, and Segment Trees."
           - "Undertook rigorous algorithmic training to systematically prepare for highly competitive national and regional programming contests."
           - "Applied advanced problem-solving skills to successfully compete and achieve high rankings in prestigious competitions, including the Informatics Olympiad in the Central Region and Highlands and the City-level Youth Informatics Contest."
-
-    Publications:
-      - title: "Gradient Descenders at SemEval-2026 Task 9: Data-Centric Counterfactual Augmentation for Multi-Label Hate Speech Detection"
-        authors:
-          - Tran Phuoc Thanh Nhan
-          - Dang Van Thin
-        date: 2026-04
-        url: https://aclanthology.org/2026.semeval-1.113.pdf
-
-      - title: "Gradient Descenders at DeSegMa-IT: Leveraging Monolingual Transformer for LLM-Generated Text Detection and Boundary Identification"
-        authors:
-          - Tran Phuoc Thanh Nhan
-          - Bui Hong Son
-          - Dang Van Thin
-        date: 2026-02
-        url: https://ceur-ws.org/Vol-4195/2.pdf
-
     Awards:
+      - title: "1st Place — DeSegMa-IT Shared Task (Subtask A: MGT Detection) @ EVALITA 2026"
+        date: 2026-02
+      - title: "3rd Place — DeSegMa-IT Shared Task (Subtask B: Boundary Detection) @ EVALITA 2026"
+        date: 2026-02
       - title: "Encouragement Prize, SEApp 2025"
         date: 2025-12
       - title: "First Prize, Danang's Computer Science Competition"

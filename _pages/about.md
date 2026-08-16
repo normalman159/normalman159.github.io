@@ -45,7 +45,7 @@ My current work revolves around building reliable and practical AI systems. I fo
     <a href="/research/" class="btn btn-primary btn-block" style="width: 100%; border-radius: 5px;">View Research Overview</a>
   </div>
   <div class="col-sm-6 mb-2">
-    <a href="/projects/" class="btn btn-outline-primary btn-block" style="width: 100%; border-radius: 5px;">View Technical Projects</a>
+    <a href="/projects/" class="btn btn-primary btn-block" style="width: 100%; border-radius: 5px;">View Technical Projects</a>
   </div>
 </div>
 
