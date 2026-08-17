@@ -26,7 +26,16 @@ By combining a **Multi-Agent orchestration architecture** with a **Hybrid Search
 
 ## Demo Video
 
-See AskUIT in action through the project demo: [watch the YouTube demo](https://www.youtube.com/watch?v=rfx6GomsOMY).
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1rem auto;">
+  <iframe
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube.com/embed/rfx6GomsOMY"
+    title="AskUIT AI Academic Assistant demo video"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    loading="lazy"
+  ></iframe>
+</div>
 
 ## Project Poster
 

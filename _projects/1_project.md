@@ -28,14 +28,22 @@ The **Competitive Programming Repository** is my long-running collection of opti
 
 ## Topics Covered
 
-| Area | Examples |
+| Area | Techniques |
 | --- | --- |
-| Graph Theory | Shortest paths, flows, connectivity, trees |
-| Dynamic Programming | Sequences, states, optimization, DP on trees |
-| Data Structures | Segment trees, BIT/Fenwick, sparse tables, heaps |
-| Mathematics | Number theory, combinatorics, probability, geometry |
-| Strings | KMP, Z-algorithm, suffix arrays, Aho-Corasick |
-| Implementation | Fast I/O, bit tricks, contest utilities |
+| Core Techniques | Binary Search, Greedy, Two Pointers, Sliding Window, Backtracking |
+| Advanced Algorithms | Dynamic Programming (1D, 2D, Bitmask, Tree DP), Graph Theory (Dijkstra, Bellman-Ford, Floyd-Warshall, DFS/BFS), Network Flow, Divide and Conquer |
+| Data Structures | Segment Trees, BIT/Fenwick Trees, Sparse Tables, Heaps, Disjoint Set Union, Trie |
+| Mathematics | Number Theory, Combinatorics, Probability, Geometry, Modular Arithmetic |
+| Strings | KMP, Z-Algorithm, Suffix Arrays, Aho-Corasick, String Hashing |
+| Implementation | Fast I/O, Bit Tricks, Contest Utilities, Template Library |
+
+## Honours
+
+| Achievement | Competition | Date |
+| --- | --- | --- |
+| First Prize | Danang's Computer Science Competition | 2024-05 |
+| Third Prize (Bronze Medal) | 5th Informatics Olympiad in the Central Region and Highlands | 2024-03 |
+| Third Prize | HueICT Challenge | 2024-03 |
 
 ## Repository Structure
 
