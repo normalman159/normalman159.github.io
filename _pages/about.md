@@ -40,6 +40,13 @@ My current work revolves around building reliable and practical AI systems. I fo
 - **Large Language Model (LLM) fine-tuning (e.g., LoRA)**
 
 <br/>
+<div class="alert alert-info mb-4" role="alert">
+  <h4 class="alert-heading">💼 Seeking Internship — December 2026 (Term 2)</h4>
+  <p class="mb-0">I am actively looking for an <strong>AI Engineer</strong> or <strong>Software Engineer</strong> internship starting in <strong>December 2026</strong> (second academic term).</p>
+  <p class="mb-0 mt-2">Open to opportunities in <strong>NLP / Generative AI / RAG / Multi-Agent Systems / LLM Fine-tuning</strong>. If you are hiring or know of relevant roles, I would love to connect!</p>
+</div>
+
+<br/>
 <div class="row text-center mb-4">
   <div class="col-sm-6 mb-2">
     <a href="/research/" class="btn btn-primary btn-block" style="width: 100%; border-radius: 5px;">View Research Overview</a>
