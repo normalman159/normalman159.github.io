@@ -1,11 +1,11 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-09-02'
 papers:
   hMcIC0wAAAAJ:u-x6o8ySG0sC:
     citations: 0
     title: 'Gradient Descenders at SemEval-2026 Task 9: Data-Centric Counterfactual Augmentation for Multi-Label Hate Speech Detection'
     year: '2026'
   hMcIC0wAAAAJ:u5HHmVD_uO8C:
-    citations: 1
+    citations: 2
     title: 'Gradient Descenders at DeSegMa-IT: Leveraging monolingual transformer for LLM-generated text detection and boundary identification'
     year: '2026'
