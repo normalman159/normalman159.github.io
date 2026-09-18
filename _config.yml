@@ -330,8 +330,8 @@ display_categories: ["news", "research", "tutorial", "external-services"] # thes
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Nhan]
-  first_name: [Tran Phuoc Thanh, Tran, T. P. T., T.]
+  last_name: [Nhan, Thanh Nhan]
+  first_name: [Tran Phuoc Thanh, Tran, T. P. T., T., Tran Phuoc]
 
   style: apa
   locale: en

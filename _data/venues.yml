@@ -5,5 +5,9 @@
 "PhysRev":
   url: https://journals.aps.org/
 
+"MAPR":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000572/all-proceedings
+  color: "#00629b"
+
 "Vision":
   color: "#009f36"
